@@ -10,7 +10,7 @@ CampusConnect is a comprehensive platform designed to streamline the chaotic col
 Key Features: Developed an intent-based matching system ("Vibe Tribe"), a real-time "Smart Feed" for SOS alerts and Lost & Found. College Events and Community events, Realtime 1 on 1 chat along with group chats called "Tribe", classfied marketplace for students on campus, realtime notice board, dedicated admin panel for managements, Campus Genie "RAG" Bot using supabase vectors and Powered by Google Gemini for context and non hallucinated chating experience.
 
 The Tech: Leveraged modern server-side rendering and real-time database subscriptions to ensure instant communication across the student body.
-#️⃣link :- https://campus-connect-three-fawn.vercel.app/ (new users are requested to use regular email feature or github login for registering instead of google due to some bugs that are currently being fixed 
+#️⃣link :- https://campus-connect-three-fawn.vercel.app/ ######NOTE###### (new users are requested to use regular email feature or github login for registering instead of google due to some bugs that are currently being fixed 
 
 ⭐ Novuria :-
 High-End E-Commerce for Luxury Ethnic Wear
