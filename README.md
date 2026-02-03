@@ -1,6 +1,30 @@
 # 💫 About Me:
 : I am a first-year Electronics and Communication Engineering student with a lifelong passion for coding. Currently, I am focused on mastering the intersection of robust backend logic and high-end frontend aesthetics. I enjoy solving complex problems with a minimalist, high-impact approach. As an INTJ, I thrive on strategic planning and building systems that scale. Currently exploring the intersection of ECE and CS with a long-term goal of contributing to the global tech landscape.
 
+Some of my Projects 
+
+⭐ CampusConnect
+   The "Real-Time Operating System" for Student Life
+CampusConnect is a comprehensive platform designed to streamline the chaotic college experience. Built with Next.js 15 and Supabase, it moves beyond simple networking by offering an "operating system" for campus life.
+
+Key Features: Developed an intent-based matching system ("Vibe Tribe"), a real-time "Smart Feed" for SOS alerts and Lost & Found, and a gamified productivity "Focus Mode."
+
+The Tech: Leveraged modern server-side rendering and real-time database subscriptions to ensure instant communication across the student body.
+#️⃣link :- https://campus-connect-three-fawn.vercel.app/
+
+⭐ Novuria
+High-End E-Commerce for Luxury Ethnic Wear
+
+Novuria is a digital-first luxury brand experience focused on women's ethnic wear. Inspired by the minimalist elegance of brands like Zara and Gucci, this project explores the intersection of high-fashion aesthetics and seamless UI/UX.
+
+Key Features: Designed with a focus on premium user journeys, high-fidelity imagery, and a "lifestyle brand" feel. It aims to bridge the gap between traditional ethnic wear and modern, global e-commerce standards.
+
+The Goal: Currently being developed as a scalable startup model, prioritizing high-conversion design and a sophisticated brand identity.
+
+#️⃣link :- Under Development
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lowkeyyashmit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aopphoenix246@gmail.com) 
