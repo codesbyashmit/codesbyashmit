@@ -1,5 +1,5 @@
 # 💫 About Me:
-: I am a first-year Electronics and Communication Engineering student with a lifelong passion for coding. Currently, I am focused on mastering the intersection of Hardware (ECE) and Software (CSE). I enjoy solving complex problems with a minimalist, high-impact approach. As an INTJ, I thrive on strategic planning and building systems that scale. Currently exploring the intersection of ECE and CS with a long-term goal of contributing to the global tech landscape.
+: I am a first-year Electronics and Communication Engineering student with a lifelong passion for coding. Currently, I am focused on mastering and improving my skills as an individual. I enjoy solving complex problems with a minimalist, high-impact approach. As an INTJ, I thrive on strategic planning and building systems that scale. Currently exploring the intersection of ECE and CS with a long-term goal of contributing to the global tech landscape.
 
 Some of my Projects 
 
