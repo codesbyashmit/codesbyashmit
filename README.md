@@ -3,7 +3,7 @@
 
 Some of my Projects 
 
-⭐ CampusConnect
+⭐ CampusConnect :- 
    The "Real-Time Operating System" for Student Life
 CampusConnect is a comprehensive platform designed to streamline the chaotic college experience. Built with Next.js 15 and Supabase, it moves beyond simple networking by offering an "operating system" for campus life.
 
@@ -12,7 +12,7 @@ Key Features: Developed an intent-based matching system ("Vibe Tribe"), a real-t
 The Tech: Leveraged modern server-side rendering and real-time database subscriptions to ensure instant communication across the student body.
 #️⃣link :- https://campus-connect-three-fawn.vercel.app/
 
-⭐ Novuria
+⭐ Novuria :-
 High-End E-Commerce for Luxury Ethnic Wear
 
 Novuria is a digital-first luxury brand experience focused on women's ethnic wear. Inspired by the minimalist elegance of brands like Zara and Gucci, this project explores the intersection of high-fashion aesthetics and seamless UI/UX.
