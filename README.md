@@ -5,6 +5,7 @@ Some of my Projects
 
 ⭐ CampusConnect :- 
    The "Real-Time Operating System" for Student Life
+   
 CampusConnect is a comprehensive platform designed to streamline the chaotic college experience. Built with Next.js 15 and Supabase, it moves beyond simple networking by offering an "operating system" for campus life.
 
 Key Features: Developed an intent-based matching system ("Vibe Tribe"), a real-time "Smart Feed" for SOS alerts and Lost & Found. College Events and Community events, Realtime 1 on 1 chat along with group chats called "Tribe", classfied marketplace for students on campus, realtime notice board, dedicated admin panel for managements, Campus Genie "RAG" Bot using supabase vectors and Powered by Google Gemini for context and non hallucinated chating experience.
