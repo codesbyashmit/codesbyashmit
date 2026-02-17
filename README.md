@@ -26,7 +26,6 @@ The Goal: Currently being developed as a scalable startup model, prioritizing hi
 
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lowkeyyashmit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aopphoenix246@gmail.com) 
 
