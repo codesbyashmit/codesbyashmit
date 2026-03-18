@@ -20,9 +20,7 @@ Novuria is a digital-first luxury brand experience focused on women's ethnic wea
 
 Key Features: Designed with a focus on premium user journeys, high-fidelity imagery, and a "lifestyle brand" feel. It aims to bridge the gap between traditional ethnic wear and modern, global e-commerce standards.
 
-The Goal: Currently being developed as a scalable startup model, prioritizing high-conversion design and a sophisticated brand identity.
-
-#️⃣link :- Under Development
+#️⃣link :- https://novuria-u2zh.vercel.app/
 
 
 
