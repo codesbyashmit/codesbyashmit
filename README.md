@@ -1,116 +1,101 @@
 <div align="center">
 
-<!-- TYPEWRITER HEADER -->
-<a href="https://github.com/codesbyashmit">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=initializing+profile...;loading+codesbyashmit...;build+systems.+ship+products.+repeat." alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+```
+░█████╗░░██████╗██╗░░██╗███╗░░░███╗██╗████████╗
+██╔══██╗██╔════╝██║░░██║████╗░████║██║╚══██╔══╝
+███████║╚█████╗░███████║██╔████╔██║██║░░░██║░░░
+██╔══██║░╚═══██╗██╔══██║██║╚██╔╝██║██║░░░██║░░░
+██║░░██║██████╔╝██║░░██║██║░╚═╝░██║██║░░░██║░░░
+╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░╚═╝╚═╝░░░╚═╝░░░
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Full-Stack+Engineer+%2F+ECE+%40+Quantum+University;Building+real+things+that+ship+to+production.;Next.js+%2B+Supabase+%2B+TypeScript+%2F+Always.;First+year.+Third+year+output." alt="Typing SVG" /></a>
+
+</div>
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ASHMIT KUMAR                                                      │
-│   ─────────────────────────────────────────────────────────────     │
-│   ECE × Full-Stack    |    Quantum University, 2025–2029            │
-│   Building things that matter. Shipping before asking permission.   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codesbyashmit&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/codesbyashmit?style=for-the-badge&color=1a1a2e&label=FOLLOWERS" alt="followers"/>
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
-
-### SYSTEM STATUS
-
-</div>
-
-```yaml
-user:        Ashmit Kumar
-role:        Full-Stack Developer  |  ECE Undergraduate
-stack:       TypeScript · Next.js · Supabase · PostgreSQL
-current:     Building production systems in Year 1 of college
-status:      Actively shipping. Always learning. Open to collabs.
-contact:     the.ashmit@outlook.com
-```
-
----
-
-<div align="center">
-
-### PRODUCTION DEPLOYMENTS
-
-</div>
-
-<table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**`CAMPUS CONNECT`**
+## The Stack I Actually Use
 
+```typescript
+const ashmit = {
+  university : "Quantum University — B.Tech ECE",
+  year       : "First Year (2025–2029)",
+  focus      : [
+    "Full-Stack Web Development",
+    "Real-Time Systems Architecture",
+    "UI/UX — from Figma to Deployed",
+  ],
+  currentlyBuilding: "dharohar-qu (university fest platform)",
+  principleOfWork  : "Ship fast. Refactor ruthlessly.",
+};
 ```
-Type     ›  Social Platform + Real-Time OS
-Stack    ›  Next.js 15 · Supabase · PostgreSQL
-Status   ›  Live in Production
-Result   ›  2nd Place · Hostel Hackathon
-           150+ participants
-```
 
-Built an intent-based matching engine, real-time SOS feed, classified marketplace, group chat ("Tribes"), RAG-powered campus bot using Supabase Vectors + Gemini, and a full admin panel — all in Year 1.
+<br/>
 
-[`→ View Live`](https://campus-connect-three-fawn.vercel.app/)
+**Languages I reach for first:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-05122A?style=flat-square&logo=c&logoColor=00599C)
+
+**The ecosystem I live in:**
+
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat-square&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-05122A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=316192)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**Design tools:**
+
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/Framer-05122A?style=flat-square&logo=framer&logoColor=0055FF)
+![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
 
 </td>
-<td width="50%" valign="top">
+<td width="5%"></td>
+<td width="40%" valign="top">
 
-**`NOVURIA`**
+## Activity
 
-```
-Type     ›  Luxury E-Commerce Platform
-Stack    ›  Next.js · TypeScript · Tailwind CSS
-Status   ›  Live in Production
-Result   ›  3rd Place · Web Dev Competition
-           180+ participants
-```
+<img src="https://github-readme-stats.vercel.app/api?username=codesbyashmit&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=c9d1d9&icon_color=4FC3F7&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
 
-A digital-first luxury brand experience for women's ethnic wear. Seller dashboard, inventory workflows, automated invoicing, high-fidelity UI designed to feel like Zara meets Supabase.
+<br/>
 
-[`→ View Live`](https://novuria-u2zh.vercel.app/)
+<img src="https://nirzak-streak-stats.vercel.app/?user=codesbyashmit&theme=transparent&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=c9d1d9&background=0d1117" width="100%" alt="GitHub Streak"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**`DHAROHAR`**
-
-```
-Type     ›  Official University Fest Website
-Stack    ›  Next.js · TypeScript · REST APIs
-Status   ›  Deployed
-Scale    ›  2000+ concurrent users handled
-```
-
-Led full-stack development for the university's annual fest. Automated event registration, live scheduling, and reduced admin overhead significantly. Built to survive real traffic.
-
-</td>
-<td width="50%" valign="top">
-
-**`IN PROGRESS`**
-
-```
-Type     ›  [ CLASSIFIED ]
-Stack    ›  TypeScript · Next.js · [ TBD ]
-Status   ›  Active Development
-ETA      ›  Soon
-```
-
-Something new is being built. Follow to find out first.
-
-[`→ Watch Repository`](https://github.com/codesbyashmit)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyashmit&layout=compact&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -118,105 +103,119 @@ Something new is being built. Follow to find out first.
 
 ---
 
-<div align="center">
-
-### TECHNICAL ARSENAL
-
-</div>
-
-```
-Languages          TypeScript ████████████░  JavaScript ███████████░  C/C++ ███████░
-                   HTML5 ██████████░  Python ████████░
-
-Frameworks         Next.js  ·  React  ·  Tailwind CSS  ·  Node.js
-
-Backend & DB       Supabase  ·  PostgreSQL  ·  REST APIs  ·  Real-time Subscriptions
-                   Vector Databases  ·  Role-Based Access Control
-
-AI & Infra         Google Gemini API  ·  RAG Architecture  ·  Vercel  ·  AWS  ·  Docker
-
-Design             Figma  ·  Adobe Illustrator  ·  Photoshop  ·  Framer  ·  Penpot
-```
-
----
-
-<div align="center">
-
-### METRICS
-
-</div>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=codesbyashmit&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyashmit&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=codesbyashmit&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" />
-
-</div>
-
----
-
-<div align="center">
-
-### COMPETITIVE RECORD
-
-</div>
-
-```
-[  2nd  ]  Annual Hostel Hackathon      Campus Connect    150+ participants
-[  3rd  ]  E-Commerce Dev Competition   Novuria           180+ participants
-[ LIVE  ]  3 production apps deployed in Year 1 of B.Tech
-[  →    ]  Official university website (Dharohar) — 2000+ concurrent users
-```
-
----
-
-<div align="center">
-
-### ACTIVITY
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbyashmit&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### REACH OUT
-
-</div>
-
-```
-the.ashmit@outlook.com     →  For collabs, opportunities, and interesting problems
-
-github.com/codesbyashmit   →  Where the work lives
-
-instagram: @lowkeyyashmit  →  Everything else
-```
-
-<div align="center">
-
-<sub>ECE undergraduate. Full-stack developer. Year 1 of many.</sub>
+## What I've Built
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=codesbyashmit&style=flat-square&color=555555&label=profile+views" />
+<table width="100%" border="0">
+<tr>
+
+<td width="50%" valign="top">
+
+### CampusConnect
+
+> *The operating system for college life — not a networking app.*
+
+Built to solve a real problem at my university. Real-time SOS alerts, smart social matching ("Vibe Tribe"), 1-on-1 and group chats, a classified marketplace, a RAG-powered campus bot backed by Supabase vectors and Gemini, and a full admin panel — all in one platform.
+
+**Stack:** `Next.js 15` `Supabase` `PostgreSQL` `TypeScript` `Google Gemini`
+
+```
+Real-time subscriptions / Role-based access / RAG architecture
+```
+
+[![Live](https://img.shields.io/badge/LIVE_DEMO-%E2%86%92-4FC3F7?style=for-the-badge&labelColor=0d1117)](https://campus-connect-three-fawn.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Novuria
+
+> *Luxury ethnic wear. Designed to feel like Zara built in India.*
+
+A full-stack e-commerce platform with emphasis on premium UI/UX — high-fidelity product imagery, a Seller Dashboard with inventory tracking and automated invoice generation, and a conversion-focused user journey.
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Node.js`
+
+```
+Seller dashboard / Invoice automation / Brand-first design
+```
+
+[![Live](https://img.shields.io/badge/LIVE_DEMO-%E2%86%92-4FC3F7?style=for-the-badge&labelColor=0d1117)](https://novuria-u2zh.vercel.app/)
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2">
+
+<br/>
+
+### Dharohar — University Fest Platform
+
+> *Official website for my university's annual cultural fest. Supported 2000+ concurrent users without breaking a sweat.*
+
+Led full-stack development solo. Automated event registration workflows, real-time scheduling, and live updates for attendees — eliminating manual admin overhead completely.
+
+**Stack:** `Next.js` `TypeScript` `REST APIs` `Supabase`
+
+```
+High-concurrency architecture / Automated registration flows / Live scheduling
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Contribution Map
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbyashmit&bg_color=0d1117&color=4FC3F7&line=1a6391&point=4FC3F7&area=true&area_color=1a3a4a&hide_border=true&custom_title=Contribution+Activity" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub><sup>Last updated: automatically · Quantum University · 2025–2029</sup></sub>
+
+## How I Think About Building
+
+```
+                    ┌─────────────────────────────────────┐
+                    │                                     │
+                    │   Identify the real problem.        │
+                    │   Design the minimal interface.     │
+                    │   Build the hardest part first.     │
+                    │   Ship. Observe. Iterate.           │
+                    │                                     │
+                    │   Repeat until it's inevitable.     │
+                    │                                     │
+                    └─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**Currently a first-year ECE student. Building as if I'm not.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/the.ashmit@outlook.com-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=4FC3F7)](mailto:the.ashmit@outlook.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://linkedin.com/in/ashmit-kumar)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/@lowkeyyashmit-0d1117?style=for-the-badge&logo=instagram&logoColor=4FC3F7)](https://instagram.com/lowkeyyashmit)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
