@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 : I am a first-year Electronics and Communication Engineering student with a lifelong passion for coding. Currently, I am focused on mastering and improving my skills as an individual. I enjoy solving complex problems with a minimalist, high-impact approach. As an INTJ, I thrive on strategic planning and building systems that scale. Currently exploring the intersection of ECE and CS with a long-term goal of contributing to the global tech landscape.
 
 Some of my Projects 
@@ -23,7 +23,6 @@ Key Features: Designed with a focus on premium user journeys, high-fidelity imag
 #️⃣link :- https://novuria-u2zh.vercel.app/
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lowkeyyashmit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aopphoenix246@gmail.com) 
 
@@ -36,5 +35,3 @@ Key Features: Designed with a focus on premium user journeys, high-fidelity imag
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codesbyashmit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
