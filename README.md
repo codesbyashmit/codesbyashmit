@@ -53,8 +53,6 @@ const ashmit: Engineer = {
 </td>
 <td valign="top" width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=codesbyashmit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
 <br>
 
 ```json
