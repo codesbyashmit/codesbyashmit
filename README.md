@@ -1,206 +1,222 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashmit%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ECE%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- TYPEWRITER HEADER -->
+<a href="https://github.com/codesbyashmit">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=initializing+profile...;loading+codesbyashmit...;build+systems.+ship+products.+repeat." alt="Typing SVG" />
+</a>
 
-</div>
-
-<div align="center">
+<br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  First-year ECE @ Quantum University  ·  INTJ  ·  India     ║
-║  Building systems that scale · Exploring ECE × CS crossover ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ASHMIT KUMAR                                                      │
+│   ─────────────────────────────────────────────────────────────     │
+│   ECE × Full-Stack    |    Quantum University, 2025–2029            │
+│   Building things that matter. Shipping before asking permission.   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Shipping+production+apps+since+Year+1+🚀;Next.js+%7C+TypeScript+%7C+Supabase+enthusiast;Minimalist+mindset%2C+high-impact+output+⚡;INTJ+%7C+Systems+thinker+%7C+Scalability+nerd)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=codesbyashmit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<div align="center">
 
-### `> whoami`
+### SYSTEM STATUS
 
-```typescript
-const ashmit = {
-  status: "1st Year B.Tech ECE @ Quantum University",
-  location: "India 🇮🇳",
-  currentFocus: [
-    "Full-Stack Architecture",
-    "Real-Time Systems",
-    "ECE × CS Intersection",
-  ],
-  personality: "INTJ — strategic, minimal, intentional",
-  mantra: "Build things that matter. Ship things that scale.",
-  openTo: "Internships · Collaborations · Open Source",
-};
+</div>
+
+```yaml
+user:        Ashmit Kumar
+role:        Full-Stack Developer  |  ECE Undergraduate
+stack:       TypeScript · Next.js · Supabase · PostgreSQL
+current:     Building production systems in Year 1 of college
+status:      Actively shipping. Always learning. Open to collabs.
+contact:     the.ashmit@outlook.com
 ```
 
-<br clear="right"/>
-
----
-
-## 🏆 &nbsp;Achievements at a Glance
-
-<div align="center">
-
-| 🥈 2nd Place | 🥉 3rd Place | 🌐 3 Live Apps |
-|:---:|:---:|:---:|
-| Annual Hostel Hackathon | E-Commerce Dev Competition | Deployed in Year 1 |
-| 150+ Participants | 180+ Participants | Production-Grade |
-
-</div>
-
----
-
-## ⚡ &nbsp;Featured Projects
-
-<div align="center">
-
-### 🔴 &nbsp;CampusConnect — *The Operating System for Student Life*
-
-</div>
-
-> **[🔗 Live Demo](https://campus-connect-three-fawn.vercel.app/)** &nbsp;·&nbsp; `Next.js 15` &nbsp;`Supabase` &nbsp;`TypeScript` &nbsp;`PostgreSQL`
-
-**🥈 2nd Place · Annual Hostel Hackathon · 150+ participants**
-
-A full-stack real-time campus platform that replaced scattered WhatsApp groups and notice boards. Think of it as a college operating system — everything students need, in one place.
-
-<details>
-<summary><b>✦ Expand Feature Breakdown</b></summary>
-
-<br>
-
-| Module | Description |
-|--------|-------------|
-| 🤝 **Vibe Tribe** | Intent-based peer matching system |
-| 🚨 **Smart Feed** | Real-time SOS alerts + Lost & Found |
-| 💬 **Tribe Chats** | 1-on-1 & group real-time messaging |
-| 🛒 **Classified Marketplace** | Buy/sell within campus |
-| 📋 **Realtime Notice Board** | Instant college announcements |
-| 🔐 **Admin Panel** | RBAC-powered content moderation |
-| 🤖 **Campus Genie** | RAG chatbot via Supabase Vectors + Gemini |
-| 📅 **Events Hub** | College & community event management |
-
-</details>
-
 ---
 
 <div align="center">
 
-### 🟣 &nbsp;Novuria — *High-End Ethnic Wear E-Commerce*
+### PRODUCTION DEPLOYMENTS
 
 </div>
 
-> **[🔗 Live Demo](https://novuria-u2zh.vercel.app/)** &nbsp;·&nbsp; `Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Node.js`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🥉 3rd Place · Web Dev Competition · 180+ participants**
-
-A digital-first luxury brand experience inspired by Zara and Gucci — where traditional ethnic wear meets global e-commerce standards. Built with an obsessive focus on premium UX.
-
-<details>
-<summary><b>✦ Expand Feature Breakdown</b></summary>
-
-<br>
-
-| Feature | Details |
-|---------|---------|
-| 👗 **Curated Collections** | High-fidelity imagery, lifestyle aesthetic |
-| 🏪 **Seller Dashboard** | Inventory tracking + order management |
-| 🧾 **Invoicing** | Automated invoice generation |
-| 🎨 **Premium UX** | Figma-designed, conversion-optimized |
-
-</details>
-
----
-
-<div align="center">
-
-### 🟡 &nbsp;Dharohar — *University Annual Fest Platform*
-
-</div>
-
-> `Next.js` &nbsp;`TypeScript` &nbsp;`REST APIs` &nbsp;·&nbsp; **2000+ concurrent users supported**
-
-Led full-stack development for Quantum University's official annual fest site. Automated event registration, live scheduling workflows, and slashed administrative overhead.
-
----
-
-## 🛠️ &nbsp;Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599c)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
-
-**Frameworks & Databases**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28)
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyashmit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&count_private=true"/>
-
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=codesbyashmit&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codesbyashmit&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🌐 &nbsp;Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/the.ashmit@outlook.com-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=0078d4)](mailto:the.ashmit@outlook.com)
-[![Instagram](https://img.shields.io/badge/@lowkeyyashmit-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/lowkeyyashmit)
-[![GitHub](https://img.shields.io/badge/codesbyashmit-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/codesbyashmit)
-
-<br>
+**`CAMPUS CONNECT`**
 
 ```
-💡  Open to internships, open-source collabs, and anything interesting.
-    If you're building something cool — let's talk.
+Type     ›  Social Platform + Real-Time OS
+Stack    ›  Next.js 15 · Supabase · PostgreSQL
+Status   ›  Live in Production
+Result   ›  2nd Place · Hostel Hackathon
+           150+ participants
 ```
 
-<br>
+Built an intent-based matching engine, real-time SOS feed, classified marketplace, group chat ("Tribes"), RAG-powered campus bot using Supabase Vectors + Gemini, and a full admin panel — all in Year 1.
 
-![Profile Views](https://komarev.com/ghpvc/?username=codesbyashmit&color=7c3aed&style=for-the-badge&label=Profile+Views)
+[`→ View Live`](https://campus-connect-three-fawn.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**`NOVURIA`**
+
+```
+Type     ›  Luxury E-Commerce Platform
+Stack    ›  Next.js · TypeScript · Tailwind CSS
+Status   ›  Live in Production
+Result   ›  3rd Place · Web Dev Competition
+           180+ participants
+```
+
+A digital-first luxury brand experience for women's ethnic wear. Seller dashboard, inventory workflows, automated invoicing, high-fidelity UI designed to feel like Zara meets Supabase.
+
+[`→ View Live`](https://novuria-u2zh.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`DHAROHAR`**
+
+```
+Type     ›  Official University Fest Website
+Stack    ›  Next.js · TypeScript · REST APIs
+Status   ›  Deployed
+Scale    ›  2000+ concurrent users handled
+```
+
+Led full-stack development for the university's annual fest. Automated event registration, live scheduling, and reduced admin overhead significantly. Built to survive real traffic.
+
+</td>
+<td width="50%" valign="top">
+
+**`IN PROGRESS`**
+
+```
+Type     ›  [ CLASSIFIED ]
+Stack    ›  TypeScript · Next.js · [ TBD ]
+Status   ›  Active Development
+ETA      ›  Soon
+```
+
+Something new is being built. Follow to find out first.
+
+[`→ Watch Repository`](https://github.com/codesbyashmit)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### TECHNICAL ARSENAL
 
 </div>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+```
+Languages          TypeScript ████████████░  JavaScript ███████████░  C/C++ ███████░
+                   HTML5 ██████████░  Python ████████░
+
+Frameworks         Next.js  ·  React  ·  Tailwind CSS  ·  Node.js
+
+Backend & DB       Supabase  ·  PostgreSQL  ·  REST APIs  ·  Real-time Subscriptions
+                   Vector Databases  ·  Role-Based Access Control
+
+AI & Infra         Google Gemini API  ·  RAG Architecture  ·  Vercel  ·  AWS  ·  Docker
+
+Design             Figma  ·  Adobe Illustrator  ·  Photoshop  ·  Framer  ·  Penpot
+```
+
+---
+
+<div align="center">
+
+### METRICS
+
+</div>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=codesbyashmit&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyashmit&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=codesbyashmit&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+
+</div>
+
+---
+
+<div align="center">
+
+### COMPETITIVE RECORD
+
+</div>
+
+```
+[  2nd  ]  Annual Hostel Hackathon      Campus Connect    150+ participants
+[  3rd  ]  E-Commerce Dev Competition   Novuria           180+ participants
+[ LIVE  ]  3 production apps deployed in Year 1 of B.Tech
+[  →    ]  Official university website (Dharohar) — 2000+ concurrent users
+```
+
+---
+
+<div align="center">
+
+### ACTIVITY
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbyashmit&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### REACH OUT
+
+</div>
+
+```
+the.ashmit@outlook.com     →  For collabs, opportunities, and interesting problems
+
+github.com/codesbyashmit   →  Where the work lives
+
+instagram: @lowkeyyashmit  →  Everything else
+```
+
+<div align="center">
+
+<sub>ECE undergraduate. Full-stack developer. Year 1 of many.</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=codesbyashmit&style=flat-square&color=555555&label=profile+views" />
+
+</div>
+
+---
+
+<div align="center">
+<sub><sup>Last updated: automatically · Quantum University · 2025–2029</sup></sub>
+</div>
