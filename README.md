@@ -250,7 +250,6 @@ If you're building something interesting — let's talk.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=codesbyashmit&color=ffffff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
