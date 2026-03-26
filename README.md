@@ -249,8 +249,6 @@ If you're building something interesting — let's talk.
 ```
 
 <br>
-
-
 </div>
 
 <br>
