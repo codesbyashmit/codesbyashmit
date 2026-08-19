@@ -11,8 +11,8 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│   B.Tech ECE  ·  Quantum University  ·  India  ·  Year 01                  │
-│   Full-Stack Architecture  ·  Real-Time Systems  ·  ECE × CS Crossover     │
+│   B.Tech CSE  ·  Quantum University  ·  India  ·  Year 02                   │
+│   Full-Stack Architecture  ·  Real-Time Systems  ·   CS Undergrad           │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -31,13 +31,13 @@
 
 ```typescript
 const ashmit: Engineer = {
-  degree:   "B.Tech ECE @ Quantum University",
+  degree:   "B.Tech CSE @ Quantum University",
   location: "India",
 
   focus: [
     "Full-Stack Architecture",
     "Real-Time Systems",
-    "ECE × CS Intersection",
+    "CS Undergrad",
   ],
 
   mantra: "Build things that matter. Ship things that scale.",
@@ -61,7 +61,7 @@ const ashmit: Engineer = {
 {
   "fuel":     "coffee + code, in that order",
   "mode":     "grinding",
-  "year":     "1st Year Student",
+  "year":     "2nd Year Student",
 
   "learning": {
     "now":    "Machine Learning",
